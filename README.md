@@ -16,5 +16,11 @@ By making use of sensors, we collect data from the garbage bins and send them to
 
 ## related images:
 
-<img width="238" height="400" src="images/faq.png">   <img width="238" height="400" src="images/complain.png">    <img width="238" height="400" src="images/faq.png">
+<img width="238" height="400" src="images/bin_status.png">   <img width="238" height="400" src="images/complain.png">    <img width="238" height="400" src="images/faq.png">
 
+<img width="238" height="400" src="images/admin_menu.png">     <img width="238" height="400" src="images/driver.png">     <img width="238" height="400" src="images/user.png">
+
+
+## purposed bin design:
+
+<img width="400" height="350" src="images/bin.png">
